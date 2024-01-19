@@ -1,0 +1,21 @@
+body {
+  display: flex;
+  justify-content: center; /*horizontal*/
+  align-items: center; /*Vertical*/
+  min-height: 100vh; /*centra en el medios*/
+
+}
+
+label {
+  display: block;
+}
+
+input, select {
+  width: 100%;
+}
+
+span {
+  display: block;
+  color: tomato;
+  font-size: x-small;
+}
